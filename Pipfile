@@ -8,6 +8,7 @@ scipy = "*"
 matplotlib = "*"
 requests = "*"
 scikit-learn = "*"
+ipympl = "*"
 
 [dev-packages]
 ipykernel = "*"
